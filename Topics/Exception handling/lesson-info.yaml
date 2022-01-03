@@ -1,0 +1,9 @@
+content:
+- Theory
+- '@ResponseStatus annotation'
+- Basic class
+- Rewrite using a basic class
+- Add an HttpStatus to response
+- Throw an exception
+- Default status code
+- Improve the program
